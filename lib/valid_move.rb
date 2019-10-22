@@ -12,6 +12,8 @@ def position_taken?(board, index)
   if board[index] = "X" || board[index] ="O"
     true
   elsif board[index] = " "
+    "Fuck you"
+  else
     false
   end
 end
