@@ -19,4 +19,4 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
 
-valid_move?(board, index)
+puts valid_move?(board, index)
