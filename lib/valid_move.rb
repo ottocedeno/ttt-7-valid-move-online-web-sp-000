@@ -15,3 +15,8 @@ def position_taken?(board, index)
     false
   end
 end
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+index = 0
+
+valid_move?(board, index)
