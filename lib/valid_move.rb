@@ -19,4 +19,4 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
 
-puts position_take?(board, index)
+puts position_taken?(board, index)
