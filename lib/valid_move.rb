@@ -18,7 +18,7 @@ def position_taken?(board, index)
   end
 end
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
 
 puts position_taken?(board, index)
